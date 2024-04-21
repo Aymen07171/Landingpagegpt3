@@ -20,7 +20,7 @@ const Header = () => {
           </button>
         </div>
         <div className='flex flex-row'>
-        <img className='md:w-[150px] md:p-[10px] ' src={peoplgroup} alt="" />
+        <img className='w-[100rem] md:p-[10px] ' src={peoplgroup} alt="" />
         <p className="text-white   text-sm max-w-sm md:max-w-md px-6 md:px-0 mt-4 md:mt-6">
           1,600 people requested access a visit in the last 24 hours
         </p>
